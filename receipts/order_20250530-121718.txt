@@ -1,0 +1,11 @@
+=== Order Summary ===
+Sandwiches:
+org.example.models.Sandwich@6ce253f1
+Drinks:
+No drinks ordered.
+Chips:
+No chips ordered.
+
+Total Price: $12.50
+
+Thank you for your order!

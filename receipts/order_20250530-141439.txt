@@ -1,0 +1,15 @@
+=== Order Summary ===
+Sandwiches
++meat
++onions
++mayo
++no
++don
+12 - white
+Drinks
+large - water
+Chips
+cheeto Chips - $1.75
+Total Price: $15.75
+
+Thank you for your order!

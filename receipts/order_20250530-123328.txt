@@ -1,0 +1,11 @@
+=== Order Summary ===
+Sandwiches:
+org.example.models.Sandwich@6ce253f1
+Drinks:
+org.example.models.Drink@53d8d10a
+Chips:
+org.example.models.Chips@e9e54c2
+
+Total Price: $17.75
+
+Thank you for your order!

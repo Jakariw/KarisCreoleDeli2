@@ -1,0 +1,5 @@
+=== Order Summary ===
+Sandwiches12 - wrapDrinkslarge - spriteChipsdoritos Chips - $1.75
+Total Price: $15.75
+
+Thank you for your order!
